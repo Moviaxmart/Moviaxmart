@@ -1,9 +1,8 @@
 body { 
 padding: 0px 5px ;
-} 
-  .pic-container {
-   
-    white-space: nowrap;
+}
+.pic-container {
+ white-space: nowrap;
     overflow-x: auto;
     overflow-y: hidden;
     display: flex;
